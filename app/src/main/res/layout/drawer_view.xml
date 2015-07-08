@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mythi.samplewallpaperchooser.widget.CustomDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dw_drawer_layout"
+    android:tag="CarbonAbout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    tools:context=".AboutActivity">
+
+    <FrameLayout
+        android:id="@+id/dw_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/dw_navigation_drawer"
+        android:background="@android:color/black"
+        android:layout_width="270dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp" />
+
+</mythi.samplewallpaperchooser.widget.CustomDrawerLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleWallpaperChooser</string>
+
+    <string name="sample_section">Samples</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+
+    <!-- Drawer dependency -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_toggle">Toggle Drawer</string>
+</resources>

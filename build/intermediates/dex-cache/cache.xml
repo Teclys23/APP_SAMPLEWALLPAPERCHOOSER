@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-16ae68d639f4353d026053c5e34d3907a2b7a019.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mythi\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\pre-dexed\debug\library-2.4.0-67a8d07dd7d4993e0e24e1aa82161d4ad1b16ca3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\pre-dexed\debug\classes-00ba31486a31e10017c2aba73634e1ca982e6827.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\pre-dexed\debug\classes-601511779bff7d5a8346134194bb7c872a130f1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mythi\android-sdks\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-98defc9fd9ac591a524bc48716d1180e2cda1824.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\pre-dexed\debug\classes-346f8ca972d4106789da42b6be201508462efb1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\exploded-aar\com.ikimuhendis\ldrawer\0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d3bec8d72ee2aa86e69f66375c31f2161b7bb324">
+        <dex dex="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\pre-dexed\debug\classes-49d99f51e417618e79d4bccaf7176eb1d00b10cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee9ae2b87d57a33a7381c75d54db12bdf2995656">
+        <dex dex="C:\Users\Mythi\Desktop\SampleWallpaperChooser\app\build\intermediates\pre-dexed\debug\classes-9b5e6a0063c7ff9abdd3316f52cda47e2281b76a.jar" />
+    </item>
+
+</items>
